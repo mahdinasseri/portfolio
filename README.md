@@ -1,19 +1,18 @@
-# **Mahdi Nasseri**  
-## **Strategic Data & Insights Leader | Analytics Team Builder**  
+# **Strategic Data & Insights Leader | Analytics Team Builder**  
 📍 Tehran, Iran | 📞 +98 912 716 2629 | 📧 mahdi.nasseri@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mahdinasseri) | 🧠 Data Storyteller | 📊 Analytics Strategist  
 
 ---
 
-### **Professional Summary**
+## **Professional Summary**
 
 Seasoned **Data & Insights Manager** with over 10 years of experience leading **data strategy, business intelligence**, and analytics functions in high-growth tech companies. Expert in **transforming business challenges into data-informed strategies**, building high-performing data teams, and developing robust analytics infrastructure. Proven success across e-commerce, app marketplaces, and classified platforms through **predictive analytics, reporting automation**, and user behavior modeling. Fluent in SQL, Python, PySpark, and visualization tools like Power BI and Metabase.
 
 ---
 
-### **Professional Experience**
+## **Professional Experience**
 
-#### **SnappMarket** – *Marketing Data Analysis & Insight Manager*  
+### **SnappMarket** – *Marketing Data Analysis & Insight Manager*  
 **Mar 2024 – Present | Tehran, Iran**
 
 - Head analytics partner for marketing leadership in Iran’s largest online grocery platform.
@@ -21,7 +20,7 @@ Seasoned **Data & Insights Manager** with over 10 years of experience leading **
 - Built strategic dashboards (WBRs, cohort views, LTV metrics) driving cross-functional visibility and faster decisions.
 - Championed data storytelling in campaign performance and customer journey analytics.
 
-#### **Divar** – *Data Analysis Team Lead*  
+### **Divar** – *Data Analysis Team Lead*  
 **Aug 2021 – Mar 2024 | Tehran, Iran**
 
 - Founded and led the Business Insight team, scaling capabilities to support product and operations with deep analytics.
@@ -29,7 +28,7 @@ Seasoned **Data & Insights Manager** with over 10 years of experience leading **
 - Automated legacy reporting, saving over 80 hours monthly while elevating strategic visibility for executive stakeholders.
 - Mentored new analysts, built documentation pipelines, and led roadmap planning for insights delivery.
 
-#### **Cafe Bazaar**  
+### **Cafe Bazaar**  
 **Senior Data Analyst** | *Nov 2019 – Aug 2021*  
 **Reporting Manager** | *Nov 2019 – Feb 2021* | Tehran, Iran
 
@@ -38,30 +37,30 @@ Seasoned **Data & Insights Manager** with over 10 years of experience leading **
 - Managed 3 major public reports (Annual, Gaming, App Publishing) using 10+ billion datapoints and storytelling design.
 - Owned end-to-end project cycles from data sourcing to final publishing, driving transparency and thought leadership.
 
-#### **Fargosha (Founder & Data Analyst)**  
+### **Fargosha (Founder & Data Analyst)**  
 **Nov 2017 – Nov 2019 | Tehran, Iran**
 
 - Founded a data analytics consultancy, delivering strategy and retention analytics for 5+ high-growth tech platforms.
 - Boosted client revenue by up to 30% through pricing analytics and LTV modeling.
 - Deployed customer segmentation (RFM, cohorts) to cut churn by 20% and drive re-engagement.
 
-#### **Axprint.com** – *Marketing Manager*  
+### **Axprint.com** – *Marketing Manager*  
 **Aug 2015 – Nov 2017 | Tehran, Iran**
 
 - Improved ROI by 20% through deep analysis of multichannel marketing campaigns.
 - Led A/B testing for lifecycle emails, boosting retention by 10%.
 - Oversaw a team of 6, fostering a data-first marketing culture.
 
-#### **Academic Roles**  
+### **Academic Roles**  
 - *Faculty Member* – Sheikh Bahaei University (2012–2015)  
 - *Lecturer* – Azad University (2008–2010)
 
-#### **Early Career**  
+### **Early Career**  
 - *System Analyst* – Shiveh Corp (2006–2007)
 
 ---
 
-### **Education**
+## **Education**
 
 **M.S. in E-Commerce Engineering**  
 *Amirkabir University of Technology, Tehran*  
@@ -73,7 +72,7 @@ Thesis: BI System Design for University Operations
 
 ---
 
-### **Key Skills**
+## **Key Skills**
 
 - **Data Analytics & Strategy**: KPI Design · SQL · Python · PySpark · Data Storytelling · Forecasting  
 - **Visualization & BI**: Power BI · Metabase · Dashboard Design · Report Automation  
@@ -83,7 +82,7 @@ Thesis: BI System Design for University Operations
 
 ---
 
-### **Thought Leadership**
+## **Thought Leadership**
 
 - **TEDx Speaker** – “Nobody is Average” (TEDxNaghsheJahan 2018)  
 - **Blogger** – 70,000+ reads on data, startups, and growth [@virgool.io/@mahdi](https://virgool.io/@mahdi)  
