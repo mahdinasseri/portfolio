@@ -1,5 +1,5 @@
 # **Strategic Data & Insights Leader | Analytics Team Builder**  
-📍 Tehran, Iran | 📞 +98 912 716 2629 | 📧 mahdi.nasseri@gmail.com  
+📧 mahdi.nasseri@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mahdinasseri) | 🧠 Data Storyteller | 📊 Analytics Strategist  
 
 ---
