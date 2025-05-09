@@ -4,8 +4,6 @@
 
 ---
 
-## **Professional Summary**
-
 Seasoned **Data & Insights Manager** with over 10 years of experience leading **data strategy, business intelligence**, and analytics functions in high-growth tech companies. Expert in **transforming business challenges into data-informed strategies**, building high-performing data teams, and developing robust analytics infrastructure. Proven success across e-commerce, app marketplaces, and classified platforms through **predictive analytics, reporting automation**, and user behavior modeling. Fluent in SQL, Python, PySpark, and visualization tools like Power BI and Metabase.
 
 ---
