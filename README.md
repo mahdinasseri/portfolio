@@ -1,3 +1,5 @@
+# 🧠 Data Storyteller | 📊 Analytics Strategist
+
 ## **Professional Experience**
 
 ### **SnappMarket** – *Marketing Data Analysis & Insight Manager*  
