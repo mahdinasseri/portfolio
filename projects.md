@@ -13,7 +13,8 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 - **Skills:** Applied data cleaning, retention analysis, LTV estimation, and anomaly detection techniques.
 - **Technologies:** Used Python (Pandas, Matplotlib), Jupyter, and Google Drive for analysis and visualization.
 - **Results:** Identified top-performing networks (Adwords, CafeBazaar), flagged Tapsell for fake installs, and revealed retention patterns.
-- [Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
+
+[Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
 
 ![](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis/blob/main/output/2.png)
 
