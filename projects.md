@@ -18,9 +18,7 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 
 ---
 
-<img src="assets/img/p0101.png" alt="" height="500">
-<img src="assets/img/p0102.png" alt="" height="500">
-<img src="assets/img/p0103.png" alt="" height="500">
+<img src="assets/img/p0101.png" alt="" height="500"><img src="assets/img/p0102.png" alt="" height="500"><img src="assets/img/p0103.png" alt="" height="500">
 
 ---
 
