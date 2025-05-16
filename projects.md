@@ -11,7 +11,7 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 **Date:** October 2019  
 **Tools:** Python, Excel, SQL  
 
-[link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
+[Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
 
 Analyzed user acquisition data for the *Divar* Android app to evaluate advertising network performance. Cleaned and validated raw logs, calculated key metrics like:
 - **3-Day Conversion Rate** (important user actions after install)
