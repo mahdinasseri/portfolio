@@ -7,7 +7,9 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 ## 🚀 Projects
 
 ### 1. **User Quality & Retention Analysis for Divar App Installs**
-**Date:** October 2019    **Tools:** Python, Excel, SQL  
+
+**Date:** October 2019    
+**Tools:** Python, Excel, SQL  
 
 [Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
 
