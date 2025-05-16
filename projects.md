@@ -26,6 +26,7 @@ Delivered actionable recommendations to improve ad spend efficiency and detect f
 
 📎 *Skills demonstrated:* event-based funnel analysis, anomaly detection, cohort retention, LTV analysis, data visualization.
 
+![](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis/blob/main/output/2.png)
 ---
 
 <!-- Add more projects in the format below:
