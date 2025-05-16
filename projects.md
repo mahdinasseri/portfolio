@@ -16,11 +16,11 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 
 [Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
 
-<div style="text-align: center;">
-  <img src="assets/img/p0101.png" alt="" height="500">
-  <img src="assets/img/p0102.png" alt="" height="500">
-  <img src="assets/img/p0103.png" alt="" height="500">
-</div>
+---
+
+<img src="assets/img/p0101.png" alt="" height="500">
+<img src="assets/img/p0102.png" alt="" height="500">
+<img src="assets/img/p0103.png" alt="" height="500">
 
 ---
 
