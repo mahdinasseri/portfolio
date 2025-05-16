@@ -8,23 +8,22 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 
 ### 1. **User Quality & Retention Analysis for Divar App Installs**
 
-**Date:** October 2019    
-**Tools:** Python, Excel, SQL  
+**Goal:**
+Compare user quality across ad networks and detect suspicious install behavior for the Divar app.
+
+**Description:**
+Analyzed user install and in-app event data to assess engagement, retention, and potential fraud.
+
+**Skills:**
+Applied data cleaning, retention analysis, LTV estimation, and anomaly detection techniques.
+
+**Technologies:**
+Used Python (Pandas, Matplotlib), Jupyter, and Google Drive for analysis and visualization.
+
+**Results:**
+Identified top-performing networks (Adwords, CafeBazaar), flagged Tapsell for fake installs, and revealed retention patterns.
 
 [Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
-
-Analyzed user acquisition data for the *Divar* Android app to evaluate advertising network performance. Cleaned and validated raw logs, calculated key metrics like:
-- **3-Day Conversion Rate** (important user actions after install)
-- **30-Day Retention Rate** (long-term engagement)
-
-Key insights revealed:
-- **CafeBazaar Search Ads** had the highest short-term conversion rate.
-- **Adwords** users had the strongest long-term retention and lifetime value.
-- **Tapsell** showed signs of fraudulent installs due to unnatural patterns.
-
-Delivered actionable recommendations to improve ad spend efficiency and detect fake installs.
-
-📎 *Skills demonstrated:* event-based funnel analysis, anomaly detection, cohort retention, LTV analysis, data visualization.
 
 ![](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis/blob/main/output/2.png)
 
