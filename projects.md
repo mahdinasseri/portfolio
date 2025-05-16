@@ -16,7 +16,7 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 
 [Link to project repository](https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis)
 
-<img src="https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis/blob/main/output/2.png" alt="" width="400">
+<img src="https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis/blob/main/output/2.png" alt="" width="400"> <img src="https://github.com/mahdinasseri/Ads-Networks-Performance-and-Fraud-Analysis/blob/main/output/2.png" alt="" width="400">
 
 
 ---
