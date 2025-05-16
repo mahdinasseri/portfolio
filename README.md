@@ -1,9 +1,3 @@
-# **Strategic Data & Insights Leader | Analytics Team Builder**  
-📧 mahdi.nasseri@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mahdinasseri) | 🧠 Data Storyteller | 📊 Analytics Strategist  
-
----
-
 ## **Professional Experience**
 
 ### **SnappMarket** – *Marketing Data Analysis & Insight Manager*  
