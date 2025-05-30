@@ -27,6 +27,6 @@ Published reports include:
 * *Cafebazaar Kids – Insights into Children’s App Usage* ([link](assets/storytelling-with-data/bazaar/25-bazaar-kids.pdf))
 * *Bazaar at a Glance – Infographic Overview* ([link](assets/storytelling-with-data/bazaar/Bazaar-infography-V04.pdf))
 
-<img src="assets/img/Bazaar-infography-V04.jpg" alt="" height="300">    <img src="assets/img/25-bazaar-kids.jpg" alt="" height="300">    <img src="assets/img/1-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/2-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/3-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/4-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/5-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/6-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/7-stwd-bazaar.png" alt="" height="300">    <img src="assets/img/8-stwd-bazaar.png" alt="" height="300">
+<img src="assets/img/Bazaar-infography-V04.jpg" alt="" height="200">    <img src="assets/img/25-bazaar-kids.jpg" alt="" height="200">    <img src="assets/img/1-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/2-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/3-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/4-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/5-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/6-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/7-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/8-stwd-bazaar.png" alt="" height="200">
 
 ---
