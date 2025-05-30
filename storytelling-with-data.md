@@ -9,7 +9,7 @@ Submitted three data journalism articles to the inaugural *[Daqiqeh Data Journal
 * **Honorable Mention**: *Public Sentiment in the First 24 Hours After the Gasoline Price Hike* \[[link](https://d-mag.ir/p14735/) and [pdf](assets/storytelling-with-data/datajournalism-award/02-Benzin_by_Mahdi_Nasseri.pdf) in Persian]
 
 
-<img src="assets/storytelling-with-data/datajournalism-award/01-App_Market.gif" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/04-Iran_Celeberations.gif" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/1.png" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/5.png" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/3.png" alt="" height="80"><img src="assets/storytelling-with-data/datajournalism-award/4.png" alt="" height="80">
+<img src="assets/img/01-App_Market.gif" alt="" height="200"><img src="assets/img/04-Iran_Celeberations.gif" alt="" height="200"><img src="assets/img/1.png" alt="" height="200"><img src="assets/img/5.png" alt="" height="200"><img src="assets/img/3.png" alt="" height="80"><img src="assets/img/4.png" alt="" height="80">
 
 
 ---
