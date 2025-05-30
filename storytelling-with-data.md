@@ -9,14 +9,8 @@ Submitted three data journalism articles to the inaugural *[Daqiqeh Data Journal
 * **Honorable Mention**: *Public Sentiment in the First 24 Hours After the Gasoline Price Hike* \[[link](https://d-mag.ir/p14735/) and [pdf](assets/storytelling-with-data/datajournalism-award/02-Benzin_by_Mahdi_Nasseri.pdf) in Persian]
 
 
-<img src="assets/storytelling-with-data/datajournalism-award/01-App_Market.gif" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/04-Iran_Celeberations.gif" alt="" height="200">
-<img src="assets/storytelling-with-data/datajournalism-award/1.png" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/5.png" alt="" height="200">
-<img src="assets/storytelling-with-data/datajournalism-award/3.png" alt="" height="80"><img src="assets/storytelling-with-data/datajournalism-award/4.png" alt="" height="80">
+<img src="assets/storytelling-with-data/datajournalism-award/01-App_Market.gif" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/04-Iran_Celeberations.gif" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/1.png" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/5.png" alt="" height="200"><img src="assets/storytelling-with-data/datajournalism-award/3.png" alt="" height="80"><img src="assets/storytelling-with-data/datajournalism-award/4.png" alt="" height="80">
 
-
----
-
-در ادامه یک متن حرفه‌ای و مناسب برای قرار دادن در بخش "Data Storytelling" رزومه‌ات آماده کرده‌ام. این متن نشان می‌دهد که مسئولیت طراحی، تحلیل داده، و روایت‌سازی داستان‌ها با خودت بوده و به صورت گزارش‌های عمومی منتشر شده‌اند. در صورت داشتن لینک به هر گزارش، می‌توانی آن‌ها را در بخش \[link] جایگذاری کنی:
 
 ---
 
@@ -33,7 +27,6 @@ Published reports include:
 * *Cafebazaar Kids – Insights into Children’s App Usage* ([link](assets/storytelling-with-data/bazaar/25-bazaar-kids.pdf))
 * *Bazaar at a Glance – Infographic Overview* ([link](assets/storytelling-with-data/bazaar/Bazaar-infography-V04.pdf))
 
-<img src="assets/storytelling-with-data/bazaar/Bazaar-infography-V04.jpg" alt="" height="200">
-<img src="assets/storytelling-with-data/bazaar/25-bazaar-kids.jpg" alt="" height="200">
+<img src="assets/storytelling-with-data/bazaar/Bazaar-infography-V04.jpg" alt="" height="200"><img src="assets/storytelling-with-data/bazaar/25-bazaar-kids.jpg" alt="" height="200">
 
 ---
