@@ -1,5 +1,7 @@
 # storytelling-with-data
 
+Experienced in transforming complex datasets into clear, compelling narratives that drive insight and action. I combine analytical thinking with visual storytelling to communicate data-driven stories effectively to technical and non-technical audiences. Proficient in creating dynamic and context-aware visualizations using a range of tools including **Plotly, Matplotlib, Power BI, Tableau, Metabase, Google Looker, G-Shits, and Excel**. Skilled in tailoring the visualization approach based on audience, platform, and business goals.
+
 
 ## Data Journalism Award – Daqiqeh (Iran, 2023)
 Submitted three data journalism articles to the inaugural *[Daqiqeh Data Journalism Award](https://d-mag.ir/pcategory/djprize/1402/)* in Iran. One article won **Third Place**, and two others received **Honorable Mentions**.
