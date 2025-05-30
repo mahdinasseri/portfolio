@@ -15,3 +15,25 @@ Submitted three data journalism articles to the inaugural *[Daqiqeh Data Journal
 
 
 ---
+
+در ادامه یک متن حرفه‌ای و مناسب برای قرار دادن در بخش "Data Storytelling" رزومه‌ات آماده کرده‌ام. این متن نشان می‌دهد که مسئولیت طراحی، تحلیل داده، و روایت‌سازی داستان‌ها با خودت بوده و به صورت گزارش‌های عمومی منتشر شده‌اند. در صورت داشتن لینک به هر گزارش، می‌توانی آن‌ها را در بخش \[link] جایگذاری کنی:
+
+---
+
+## Public Data Storytelling Reports – Cafebazaar (2019–2021)
+While working at **Cafebazaar**, I led the end-to-end design and production of several public-facing, data-driven reports. This included identifying relevant questions, extracting and analyzing internal product and market data, and crafting compelling data narratives for a general audience. The reports gained wide attention and helped position Cafebazaar as a thought leader in Iran's digital economy.
+
+Published reports include:
+
+* *Quarterly Market Review – Q3 1398* ([link](assets/storytelling-with-data/bazaar/21-Quarterly-Market-Review-Q3-98.pdf))
+* *Cafebazaar Annual Report – 1398* ([link](assets/storytelling-with-data/bazaar/22-Cafebazaar-Annual-Report-1398.pdf))
+* *People & COVID-19: Behavioral Insights from Cafebazaar* ([link](assets/storytelling-with-data/bazaar/22-Cafebazaar-report-people-covid-19.pdf))
+* *Game Growth Analytical Report* ([link](assets/storytelling-with-data/bazaar/23-Game-Growth-Analytical-Report.pdf))
+* *App Publishing Trends – H1 1399* ([link](assets/storytelling-with-data/bazaar/24-App-publishing-report-bazaar-1399q1q2.pdf))
+* *Cafebazaar Kids – Insights into Children’s App Usage* ([link](assets/storytelling-with-data/bazaar/25-bazaar-kids.pdf))
+* *Bazaar at a Glance – Infographic Overview* ([link](assets/storytelling-with-data/bazaar/Bazaar-infography-V04.pdf))
+
+<img src="assets/storytelling-with-data/bazaar/Bazaar-infography-V04.jpg" alt="" height="200">
+<img src="assets/storytelling-with-data/bazaar/25-bazaar-kids.jpg" alt="" height="200">
+
+---
