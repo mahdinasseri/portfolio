@@ -29,6 +29,22 @@ Published reports include:
 * *Cafebazaar Kids – Insights into Children’s App Usage* ([pdf](assets/storytelling-with-data/bazaar/25-bazaar-kids.pdf))
 * *Bazaar at a Glance – Infographic Overview* ([pdf](assets/storytelling-with-data/bazaar/Bazaar-infography-V04.pdf))
 
-<img src="assets/img/Bazaar-infography-V04.jpg" alt="" height="200">    <img src="assets/img/25-bazaar-kids.jpg" alt="" height="200">    <img src="assets/img/1-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/2-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/3-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/4-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/5-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/6-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/7-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/8-stwd-bazaar.png" alt="" height="200">
+<img src="assets/img/1-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/2-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/3-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/4-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/5-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/6-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/7-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/8-stwd-bazaar.png" alt="" height="200">    <img src="assets/img/Bazaar-infography-V04.jpg" alt="" height="200">    <img src="assets/img/25-bazaar-kids.jpg" alt="" height="200">
 
 ---
+
+## Dashboard Design & Business Intelligence**
+
+Extensive experience in designing and building interactive dashboards for both **operational** and **strategic** decision-making across various industries. Skilled at translating business needs into actionable insights through tailored visual interfaces.
+
+* **Metabase**: Developed operational dashboards for daily monitoring and performance tracking, enabling cross-functional teams to access real-time KPIs with minimal technical barriers.
+
+<img src="assets/storytelling-with-data/dashboards-screenshots/dashboard-on-metabase/atl-monitoring.png" alt="" height="200">   <img src="assets/storytelling-with-data/dashboards-screenshots/dashboard-on-metabase/clv.png" alt="" height="200">   <img src="assets/storytelling-with-data/dashboards-screenshots/dashboard-on-metabase/gen-z.png" alt="" height="200">   <img src="assets/storytelling-with-data/dashboards-screenshots/dashboard-on-metabase/ltv.png" alt="" height="200">   <img src="assets/storytelling-with-data/dashboards-screenshots/dashboard-on-metabase/time-to-purchase.png" alt="" height="200"> 
+
+* **Tableau**: Created strategic dashboards with advanced visual analytics for executive teams, integrating multi-source data to support long-term planning and business reviews.
+
+<img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/cohort-analysis.png" alt="" height="200">    <img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/customer-behaviour.png" alt="" height="200">    <img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/metrics.png" alt="" height="200">    <img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/mobile-users.png" alt="" height="200">    <img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/new-users.png" alt="" height="200">    <img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/sales-growth.png" alt="" height="200">    <img src="assets/storytelling-with-data/dashboards-screenshots/Tableau/trends.png" alt="" height="200">
+
+
+* **Other Tools**: Built customized dashboards using **Power BI**, **Excel**, and **custom Python visualizations**, adapting to each organization’s data maturity and technical environment.
+
