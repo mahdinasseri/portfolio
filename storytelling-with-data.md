@@ -3,7 +3,7 @@
 Experienced in transforming complex datasets into clear, compelling narratives that drive insight and action. I combine analytical thinking with visual storytelling to communicate data-driven stories effectively to technical and non-technical audiences. Proficient in creating dynamic and context-aware visualizations using a range of tools including **Plotly, Matplotlib, Power BI, Tableau, Metabase, Google Looker, G-Shits, and Excel**. Skilled in tailoring the visualization approach based on audience, platform, and business goals.
 
 
-## Data Journalism Award – Daqiqeh (Iran, 2023)
+## 🏆 Data Journalism Award – Daqiqeh (Iran, 2023)
 Submitted three data journalism articles to the inaugural *[Daqiqeh Data Journalism Award](https://d-mag.ir/pcategory/djprize/1402/)* in Iran. One article won **Third Place**, and two others received **Honorable Mentions**.
 
 * **Third Place**: *Yalda and Valentine: A Paradigm Shift – An Analysis of the Popularity Trends of Cultural Celebrations in Iran* \[[link](https://d-mag.ir/p14348/) and [pdf](assets/storytelling-with-data/datajournalism-award/04-Iran_Celeberations_by_Mahdi_Nasseri.pdf) in Persian]
@@ -16,7 +16,7 @@ Submitted three data journalism articles to the inaugural *[Daqiqeh Data Journal
 
 ---
 
-## Public Data Storytelling Reports – Cafebazaar (2019–2021)
+## 📊 Public Data Storytelling Reports – Cafebazaar (2019–2021)
 While working at **Cafebazaar**, I led the end-to-end design and production of several public-facing, data-driven reports. This included identifying relevant questions, extracting and analyzing internal product and market data, and crafting compelling data narratives for a general audience. The reports gained wide attention and helped position Cafebazaar as a thought leader in Iran's digital economy.
 
 Published reports include:
@@ -33,7 +33,7 @@ Published reports include:
 
 ---
 
-## Dashboard Design & Business Intelligence
+## 📈 Dashboard Design & Business Intelligence
 
 Extensive experience in designing and building interactive dashboards for both **operational** and **strategic** decision-making across various industries. Skilled at translating business needs into actionable insights through tailored visual interfaces.
 
