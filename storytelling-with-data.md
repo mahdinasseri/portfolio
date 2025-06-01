@@ -33,7 +33,7 @@ Published reports include:
 
 ---
 
-## Dashboard Design & Business Intelligence**
+## Dashboard Design & Business Intelligence
 
 Extensive experience in designing and building interactive dashboards for both **operational** and **strategic** decision-making across various industries. Skilled at translating business needs into actionable insights through tailored visual interfaces.
 
