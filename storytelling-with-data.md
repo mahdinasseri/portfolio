@@ -65,3 +65,17 @@ Season 1 focused on reports from the year 1401 (2022–2023), featuring six epis
 
 📺 [YouTube Playlist](https://www.youtube.com/channel/UCkKYWQ4BsRc6NNVyw_4JckA) | 🎧 [Castbox](https://castbox.fm/channel/Dadegozar-id6170624?country=us)
 
+---
+
+## 📚 **Workshop Facilitator – Data Storytelling**
+
+Designed and led workshops on effective **data storytelling and visualization**, inspired by the bestselling book [*Storytelling with Data* by Cole Nussbaumer Knaflic](https://www.amazon.com/dp/1119002257). These sessions focus on turning complex data into clear, compelling narratives that drive impact.
+
+Delivered in-house trainings at several major Iranian tech companies and conducted open workshops for the wider data and analytics community. The workshops combine theory, best practices, and hands-on exercises using tools like Excel, Tableau, Power BI, and Python visualization libraries.
+
+📄 [Download PDF – Workshop Slides](/assets/pdf/presentations/Storytelling%20With%20Data%20-%20Analytips.pdf)
+
+<img src="assets/img/stw.png" alt="" height="300">
+
+
+
