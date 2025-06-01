@@ -58,10 +58,10 @@ Season 1 focused on reports from the year 1401 (2022–2023), featuring six epis
 
 * **Episode 1**: Key Data from Karafs Annual Report 1401
 * **Episode 2**: Key Data from Hamrah Mechanic Annual Report 1401
-* **Episode 3**: Insights from Trende’s 1401 Annual Data Report
+* **Episode 3**: Insights from Theterland's 1401 Annual Data Report
 * **Episode 4**: User Behavior on Iranian Social Media – Dataak Report 1401
 * **Episode 5**: Online Shopping Trends – Foodex Report on Iranian Consumers 1401
-* **Episode 6**: Highlights from Khatomi’s Annual Report 1402
+* **Episode 6**: Highlights from Khanomi’s Annual Report 1402
 
 📺 [YouTube Playlist](https://www.youtube.com/channel/UCkKYWQ4BsRc6NNVyw_4JckA) | 🎧 [Castbox](https://castbox.fm/channel/Dadegozar-id6170624?country=us)
 
