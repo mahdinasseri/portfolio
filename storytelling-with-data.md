@@ -48,3 +48,20 @@ Extensive experience in designing and building interactive dashboards for both *
 
 * **Other Tools**: Built customized dashboards using **Power BI**, **Excel**, and **custom Python visualizations**, adapting to each organization’s data maturity and technical environment.
 
+---
+
+
+## 🎙️ **Data Podcast Host – Dadegozar**
+
+Creator and host of *Dadegozar*, a data storytelling podcast and videocast (the name means “Data Interpreter in Persian). The show explores and interprets key findings from annual reports published by Iranian tech companies, transforming complex datasets into insightful narratives accessible to a wider audience.
+Season 1 focused on reports from the year 1401 (2022–2023), featuring six episodes:
+
+* **Episode 1**: Key Data from Karafs Annual Report 1401
+* **Episode 2**: Key Data from Hamrah Mechanic Annual Report 1401
+* **Episode 3**: Insights from Trende’s 1401 Annual Data Report
+* **Episode 4**: User Behavior on Iranian Social Media – Dataak Report 1401
+* **Episode 5**: Online Shopping Trends – Foodex Report on Iranian Consumers 1401
+* **Episode 6**: Highlights from Khatomi’s Annual Report 1402
+
+📺 [YouTube Playlist](https://www.youtube.com/channel/UCkKYWQ4BsRc6NNVyw_4JckA) | 🎧 [Castbox](https://castbox.fm/channel/Dadegozar-id6170624?country=us)
+
