@@ -1,12 +1,10 @@
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst Projects
 
 Welcome to my data analyst portfolio. Below is a curated list of real-world projects I've completed, showcasing my skills in data cleaning, analysis, visualization, and storytelling to drive business decisions.
 
 ---
 
-## 🚀 Projects
-
-### 1. **User Quality & Retention Analysis for Divar App Installs**
+## 1. **User Quality & Retention Analysis for Divar App Installs**
 
 - **Goal:** Compare user quality across ad networks and detect suspicious install behavior for the Divar app.
 - **Description:** Analyzed user install and in-app event data to assess engagement, retention, and potential fraud.
@@ -19,6 +17,20 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 ---
 <img src="assets/img/p0101.png" alt="" height="500"><img src="assets/img/p0102.png" alt="" height="500"><img src="assets/img/p0103.png" alt="" height="500">
 ---
+
+## NGD
+
+## Word Learning by AI
+
+## Segmentation
+
+## Retention Analysis
+
+## CRM Optimization
+
+## LTV Modeling
+
+## Analytics Automation
 
 <!-- Add more projects in the format below:
 
