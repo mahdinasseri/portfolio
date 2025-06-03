@@ -1,29 +1,28 @@
+# Building and Leading Data-Driven Teams
 
-# **Building and Leading Data-Driven Teams**
+Over the past years, I’ve built and led several teams with a focus on data and decision-making. Each experience taught me valuable lessons about hiring, team development, and creating a data culture in different environments.
 
-Over the past few years, I have gained valuable experience in building and leading several data-focused teams across different companies and initiatives. These experiences have taught me how to hire the right people, create strong collaboration, and make data a core part of decision-making.
+## [Axprint](https://axprint.com) – Head of Marketing
 
-## **Marketing Team Lead – Axprint**
+At Axprint, the first and largest online photo printing service in Iran, I managed a 6-person marketing team. I personally hired and trained 3 of them. Our main focus was on performance marketing. I also led all data analysis efforts myself and worked to make our marketing activities fully data-driven.
 
-As the Marketing Manager at Axprint, I led a 6-person performance marketing team. I hired and trained 3 of the team members myself. I was personally responsible for data analysis and made sure our marketing decisions were data-driven.
+## [Café Bazaar](https://cafebazaar.ir) – Data Project Lead
 
-## **Project Coordinator – Cafe Bazaar**
+At Café Bazaar, the largest Android app store in Iran with over 40 million monthly active users, I led a temporary team to launch [insight.cafebazaar.ir](https://insight.cafebazaar.ir), a website for publishing public data on Iranian Android apps. I coordinated across technical and content teams and developed the overall data publishing strategy for the site.
 
-At Cafe Bazaar, I led a temporary cross-functional team to launch a public data website: [insight.cafebazaar.ir](http://insight.cafebazaar.ir). The goal was to share public data about Iranian Android apps. I coordinated technical team members and designed the data release strategy for the website.
+## [Divar](https://divar.ir) – Insight Team Lead
 
-## **Insights Team Founder – Divar**
+At Divar, Iran’s largest classifieds platform with over 30 million monthly active users, I built a 3-person insights team focused on solving high-level organizational problems using data. We worked closely on strategic planning, customer-related topics, and supported quarterly business reviews (QBR) with analytics and insights.
 
-At Divar, I created a 3-person “Insights Team” to support organizational-level challenges through a data-driven approach. The team contributed to strategic planning, customer-focused analyses, and QBR (Quarterly Business Review) reporting.
+## [SnappMarket](https://snapp.market) – Head of Marketing Analytics
 
-## **Marketing Analytics Team Lead – SnappMarket**
+At SnappMarket, Iran’s leading online supermarket with over 130,000 successful daily orders, I built and led a 6-person marketing analytics team. I hired 3 of the team members myself. Our mission was to support all marketing and business development efforts with data and insights.
 
-At SnappMarket, I built and led a 6-person data analytics team within the marketing department. I hired 3 of the analysts directly. The team supported all marketing and business development activities with data and insights.
+## Fargosha – Founder & Consultant
 
-## **Volunteer Roles – Tech & Startup Events**
+I founded *Fargosha*, a 3-person team that delivered data consulting and analytics project execution to major Iranian companies over a period of three years. We helped clients solve real business problems through data-driven solutions.
 
-As a volunteer, I helped form and organize several teams for tech and entrepreneurship events, including the early organizing teams of TEDxEsfahan and Startup Weekend Esfahan. I also supported various tech event initiatives in their early stages.
+## Volunteer Experience – Community Teams
 
-## **Founder & Team Lead – Fargosha Analytics**
-
-I founded and led a 3-person team called *Fargosha*, which provided data analytics consulting and project execution services to major Iranian companies. Over three years, we worked closely with clients to help them use data for better decision-making and business growth.
+As a volunteer, I helped form and grow several teams in the Iranian startup ecosystem, including early organizing teams for TEDxIsfahan, Startup Weekend Isfahan, and other tech-related events. These experiences gave me valuable insight into team building and community-driven collaboration.
 
