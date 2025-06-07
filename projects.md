@@ -18,6 +18,14 @@ Welcome to my data analyst portfolio. Below is a curated list of real-world proj
 <img src="assets/img/p0101.png" alt="" height="500"><img src="assets/img/p0102.png" alt="" height="500"><img src="assets/img/p0103.png" alt="" height="500">
 ---
 
+## 2. educAItion - AI-Powered English Learning That Sticks
+
+Designed and developed a Telegram bot that combines OpenAI with the Leitner spaced repetition technique to help users learn English vocabulary. Built using **n8n**, Python, and MySQL on a self-hosted VPS with custom AI-generated content and daily review logic. Managed full-stack setup including server deployment, domain configuration, and **automation workflows**.
+
+[Link to project repository](https://github.com/mahdinasseri/educAItion)
+
+<img src="assets/img/projects_ai.png" alt="">
+
 ## NGD
 
 ## Word Learning by AI
