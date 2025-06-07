@@ -25,6 +25,7 @@ Over the years, I've delivered more than 100 workshops in over 10 cities, coveri
 * 🗃️ [Open Presentations on GitHub](https://github.com/mahdinasseri/Open-Presentations)
 * 📊 [My Slides on SlideShare](https://www.slideshare.net/mahdinasseri). I used to upload many of my presentations here up until 2020
 
+
 <img src="assets/img/open_pres.png" height=400> <img src="assets/img/slideshare.png" height=400>
 
 ---
@@ -34,22 +35,36 @@ Over the years, I've delivered more than 100 workshops in over 10 cities, coveri
 A selection of recorded talks and webinars across various topics and formats:
 
 * **Iran Web Festival Talk** *(Cafebazaar, 2019)*
-  Insights on product strategy, user growth, and the role of marketplaces in Iran's tech ecosystem.
-  [🎥 Watch on Aparat or YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  A deep dive into competition and profitability in Iran’s mobile app industry, presented at the Iran Web and Mobile Festival.
+
+  [🎥 Watch on YouTube](https://youtu.be/AD-CWedQfMo?si=p2cjqSZk95cAAtBK) - 📄 [View PDF](assets/pdf/presentations/web-jashnvareh/mahdi-nasseri-v06.pdf)
+
+  
+  <img src="assets/img/web.jpg">
+
 
 * **Roshansho Conference (2013)**
   A motivational talk on innovation and future-of-work thinking for a young audience.
-  [🎥 Video Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+  [🎥 Video Link on Aparat](https://www.aparat.com/v/h26vk33)
+
 
 * **Career Path Webinar** *(Hamrah Academy)*
-  A practical session on navigating careers in tech, analytics, and product management.
-  [🎥 Video Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  A practical session on navigating careers in data analytics.
 
-* **Business Model Education Series (2017)**
-  A recorded lecture series introducing core business model frameworks for startup founders.
-  [🎥 Video Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  [🎥 Video Link - needs registeration](https://hamrah.academy/course/3437)
 
----
+
+  <img src="assets/img/webinar.jpeg">
+
+<br>
+
+* **Business Model Education Series (2019)**
+  A recorded lecture series introducing core business model frameworks for startup founders for Abisefid coworking space (Isfahan)
+
+  [🎥 Video playlist on Youtube](https://youtube.com/playlist?list=PLFTPcDuDIpmR1pselAKlAg-Jc8cuyF0eK&si=4E4IPMS9bEPBNaJy)
+
+
 
 ## 🧠 Signature Workshops
 
