@@ -6,9 +6,9 @@ Over the past years, I’ve built and led several teams with a focus on data and
 
 At Axprint, the first and largest online photo printing service in Iran, I managed a 6-person marketing team. I personally hired and trained 3 of them. Our main focus was on performance marketing. I also led all data analysis efforts myself and worked to make our marketing activities fully data-driven.
 
-## [Café Bazaar](https://cafebazaar.ir) – Data Project Lead
+## [Bazaar](https://cafebazaar.ir) – Data Project Lead
 
-At Café Bazaar, the largest Android app store in Iran with over 40 million monthly active users, I led a temporary team to launch [insight.cafebazaar.ir](https://insight.cafebazaar.ir), a website for publishing public data on Iranian Android apps. I coordinated across technical and content teams and developed the overall data publishing strategy for the site.
+At Bazaar, the largest Android app store in Iran with over 40 million monthly active users, I led a temporary team to launch [insight.cafebazaar.ir](https://insight.cafebazaar.ir), a website for publishing public data on Iranian Android apps. I coordinated across technical and content teams and developed the overall data publishing strategy for the site.
 
 ## [Divar](https://divar.ir) – Insight Team Lead
 
@@ -17,6 +17,8 @@ At Divar, Iran’s largest classifieds platform with over 30 million monthly act
 ## [SnappMarket](https://snapp.market) – Head of Marketing Analytics
 
 At SnappMarket, Iran’s leading online supermarket with over 130,000 successful daily orders, I built and led a 6-person marketing analytics team. I hired 3 of the team members myself. Our mission was to support all marketing and business development efforts with data and insights.
+
+<img src="assets/img/teams_01.jpg">
 
 ## Fargosha – Founder & Consultant
 
