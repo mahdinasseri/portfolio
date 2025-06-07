@@ -2,11 +2,11 @@
 
 Over the past 15 years, I've given numerous talks and facilitated a wide range of workshops across Iran. My focus has consistently been on making data-driven thinking accessible to a broader audience—from startups and marketers to corporate decision-makers. Below are selected highlights from my speaking and teaching engagements.
 
----
+
 
 ## 🎙 TEDx Talk: *No One is Average—and Average is No One*
 
-**TEDxNaghsheJahan | 2015**
+**TEDxNaghsheJahan | 2018**
 
 In this talk, I explored how misleading averages can be in data analysis, especially in the context of big data. I introduced more nuanced approaches to interpreting data, advocating for deeper understanding rather than surface-level summaries.
 
@@ -14,16 +14,18 @@ In this talk, I explored how misleading averages can be in data analysis, especi
 * 📺 [Watch on YouTube](https://www.youtube.com/watch?v=vkMHnnJSuf8)
 
 <img src="assets/img/IMG_7012.jpeg">
----
+
 
 ## 🗂️ Open-Source Workshop Materials
 
 **Open-Presentations Repository**
 
-Over the years, I've delivered more than 100 workshops in over 10 cities, covering topics like data analysis, marketing, startups, entrepreneurship, and strategic thinking. I created the [**open-presentations** GitHub repository](https://github.com/username/open-presentations) to freely share my slides and resources.
+Over the years, I've delivered more than 100 workshops in over 10 cities, covering topics like data analysis, marketing, startups, entrepreneurship, and strategic thinking. I created the **open-presentations** GitHub repository to freely share my slides and resources.
 
-* 🗃️ [Open Presentations on GitHub](https://github.com/username/open-presentations)
-* 📊 [My Slides on SlideShare](https://www.slideshare.net/yourusername)
+* 🗃️ [Open Presentations on GitHub](https://github.com/mahdinasseri/Open-Presentations)
+* 📊 [My Slides on SlideShare](https://www.slideshare.net/mahdinasseri). I used to upload many of my presentations here up until 2020
+
+<img src="assets/img/open_pres.png" height=400> <img src="assets/img/slideshare.png" height=400>
 
 ---
 
