@@ -111,6 +111,6 @@ How to measure and model user retention using actionable metrics and lifecycle a
 
 * **Building a Data-Driven Organization**</br>
   Culture, tools, and processes required to scale data thinking across an entire organization.</br>
-  📄 [View PDF](assets/pdf/presentations/Building%20a%20Data-Driven%20Organization%20-%20HamrahAvval.pdf.crdownload)
+  📄 [View PDF](assets/pdf/presentations/Building%20a%20Data-Driven%20Organization%20-%20HamrahAvval.pdf)
 
 > For selected decks and materials, visit the [open-presentations repository](https://github.com/mahdinasseri/Open-Presentations).
