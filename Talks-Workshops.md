@@ -68,11 +68,13 @@ A selection of recorded talks and webinars across various topics and formats:
 
 ## 🧠 Signature Workshops
 
-A curated list of my most impactful workshops delivered both publicly and for major companies:
+A curated list of my most impactful workshops delivered both publicly and for companies:
 
-* **Lean Analytics Bootcamp**
-  A hands-on, 16-hour walkthrough of Lean Analytics principles and startup metrics.
-  📄 [View PDF](https://yourwebsite.com/lean-analytics.pdf)
+
+* **Lean Analytics Bootcamp** </br>
+A hands-on, 16-hour walkthrough of Lean Analytics principles and startup metrics. This workshop is designed and delivered based on the book *Lean Analytics: Use Data to Build a Better Startup Faster* by Alistair Croll and Benjamin Yoskovitz.<br>
+  📄 [View PDF](assets/pdf/presentations/Lean_analytics_webinar_mahdi_nasseri.pdf) - 
+  📘 [Lean Analytics on Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675)
 
 * **LTV Fundamentals Workshop**
   A workshop on understanding, calculating, and optimizing Customer Lifetime Value.
