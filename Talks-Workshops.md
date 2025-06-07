@@ -13,8 +13,6 @@ In this talk, I explored how misleading averages can be in data analysis, especi
 * 🌐 [TEDx Official Page](https://www.ted.com/talks/mahdi_nasseri_nobody_is_average_and_average_is_nobody)
 * 📺 [Watch on YouTube](https://www.youtube.com/watch?v=vkMHnnJSuf8)
 
-<img src="assets/img/IMG_7012.jpeg">
-
 
 ## 🗂️ Open-Source Workshop Materials
 
@@ -26,10 +24,6 @@ Over the years, I've delivered more than 100 workshops in over 10 cities, coveri
 * 📊 [My Slides on SlideShare](https://www.slideshare.net/mahdinasseri). I used to upload many of my presentations here up until 2020
 
 
-<img src="assets/img/open_pres.png" height=400> <img src="assets/img/slideshare.png" height=400>
-
----
-
 ## 📹 Selected Talk Videos
 
 A selection of recorded talks and webinars across various topics and formats:
@@ -38,10 +32,6 @@ A selection of recorded talks and webinars across various topics and formats:
   A deep dive into competition and profitability in Iran’s mobile app industry, presented at the Iran Web and Mobile Festival.
 
   [🎥 Watch on YouTube](https://youtu.be/AD-CWedQfMo?si=p2cjqSZk95cAAtBK) - 📄 [View PDF](assets/pdf/presentations/web-jashnvareh/mahdi-nasseri-v06.pdf)
-
-  
-  <img src="assets/img/web.jpg">
-
 
 * **Roshansho Conference (2013)**
   A motivational talk on innovation and future-of-work thinking for a young audience.
@@ -55,21 +45,15 @@ A selection of recorded talks and webinars across various topics and formats:
   [🎥 Video Link - needs registeration](https://hamrah.academy/course/3437)
 
 
-  <img src="assets/img/webinar.jpeg">
-
-<br>
-
 * **Business Model Education Series (2019)**
   A recorded lecture series introducing core business model frameworks for startup founders for Abisefid coworking space (Isfahan)
 
   [🎥 Video playlist on Youtube](https://youtube.com/playlist?list=PLFTPcDuDIpmR1pselAKlAg-Jc8cuyF0eK&si=4E4IPMS9bEPBNaJy)
 
 
-
 ## 🧠 Signature Workshops
 
 A curated list of my most impactful workshops delivered both publicly and for companies:
-
 
 * **Lean Analytics Bootcamp** </br>
 A hands-on, 16-hour walkthrough of Lean Analytics principles and startup metrics. This workshop is designed and delivered based on the book *Lean Analytics: Use Data to Build a Better Startup Faster* by Alistair Croll and Benjamin Yoskovitz.<br>
@@ -114,3 +98,6 @@ How to measure and model user retention using actionable metrics and lifecycle a
   📄 [View PDF](assets/pdf/presentations/Building%20a%20Data-Driven%20Organization%20-%20HamrahAvval.pdf)
 
 > For selected decks and materials, visit the [open-presentations repository](https://github.com/mahdinasseri/Open-Presentations).
+
+<img src="assets/img/IMG_7012.jpeg"><img src="assets/img/web.jpg"><img src="assets/img/webinar.jpeg">
+<img src="assets/img/open_pres.png" height=400> <img src="assets/img/slideshare.png" height=400>
