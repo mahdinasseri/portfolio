@@ -76,36 +76,41 @@ A hands-on, 16-hour walkthrough of Lean Analytics principles and startup metrics
   📄 [View PDF](assets/pdf/presentations/Lean_analytics_webinar_mahdi_nasseri.pdf) - 
   📘 [Lean Analytics on Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675)
 
-* **LTV Fundamentals Workshop**
-  A workshop on understanding, calculating, and optimizing Customer Lifetime Value.
-  📄 [View PDF](https://yourwebsite.com/ltv-workshop.pdf)
+* **LTV Fundamentals Workshop**</br>
+  A workshop on understanding, calculating, and optimizing Customer Lifetime Value.<br>
+  📄 [View PDF](assets/pdf/presentations/LTV-Fundamentals.pdf)
 
-* **Cohort Analysis in Practice**
-  Practical techniques for behavior analysis over time using cohort frameworks.
-  📄 [View PDF](https://yourwebsite.com/cohort-analysis.pdf)
+* **Retention Calculation: Metrics & Models**</br>
+How to measure and model user retention using actionable metrics and lifecycle analysis.</br>
+📄 [View PDF](assets/pdf/presentations/Retention%20Calculation%20by%20Mahdi%20Nasseri.pdf)
 
-* **Data Storytelling** *(based on “Storytelling with Data”)*
-  Learn to turn insights into compelling visual stories that drive action.
-  📄 [View PDF](https://yourwebsite.com/data-storytelling.pdf)
 
-* **Customer Segmentation Techniques**
-  Frameworks and models to meaningfully segment users based on behavior and value.
-  📄 [View PDF](https://yourwebsite.com/segmentation.pdf)
+* **Cohort Analysis in Practice**</br>
+  Practical techniques for behavior analysis over time using cohort frameworks.<br>
+  📄 [View PDF](assets/pdf/presentations/CohortAnalysis_by_mahdi_nasseri.pdf)
+
+* **Data Storytelling** *(based on “Storytelling with Data”)*<br>
+  Learn to turn insights into compelling visual stories that drive action.<br>
+  📄 [View PDF](assets/pdf/presentations/Storytelling%20With%20Data%20-%20Analytips.pdf)
+
+* **Customer Segmentation Techniques**</br>
+  Frameworks and models to meaningfully segment users based on behavior and value.<br>
+  📄 [View PDF](assets/pdf/presentations/Customer%20Segmentation.pdf)
 
 * **Understanding Gen Z Behavior Through Data**
   Insights and data trends to understand how Gen Z thinks, behaves, and buys.
-  📄 [View PDF](https://yourwebsite.com/genz-behavior.pdf)
+  📄 [View PDF](assets/pdf/presentations/Gen%20Z%20Behavior.pdf)
 
-* **Designing the Right Metrics**
-  Methods for creating actionable, context-aware KPIs that reflect strategic goals.
-  📄 [View PDF](https://yourwebsite.com/metrics-design.pdf)
+* **Designing the Right Metrics**</br>
+  Methods for creating actionable, context-aware KPIs that reflect strategic goals.</br>
+  📄 [View PDF](assets/pdf/presentations/Metric%20Design.pdf)
 
-* **Data-Driven Decision Making**
-  A workshop on frameworks and mindsets for reducing bias and using evidence in decision-making.
-  📄 [View PDF](https://yourwebsite.com/data-decision.pdf)
+* **Data-Driven Decision Making**</br>
+  A workshop on frameworks and mindsets for reducing bias and using evidence in decision-making.</br>
+  📄 [View PDF](assets/pdf/presentations/Data%20Drive%20Decision-Making.pdf)
 
-* **Building a Data-Driven Organization**
-  Culture, tools, and processes required to scale data thinking across an entire organization.
-  📄 [View PDF](https://yourwebsite.com/data-org.pdf)
+* **Building a Data-Driven Organization**</br>
+  Culture, tools, and processes required to scale data thinking across an entire organization.</br>
+  📄 [View PDF](assets/pdf/presentations/Building%20a%20Data-Driven%20Organization%20-%20HamrahAvval.pdf.crdownload)
 
-> For selected decks and materials, visit the [open-presentations repository](https://github.com/username/open-presentations).
+> For selected decks and materials, visit the [open-presentations repository](https://github.com/mahdinasseri/Open-Presentations).
