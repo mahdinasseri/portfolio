@@ -10,9 +10,10 @@ Over the past 15 years, I've given numerous talks and facilitated a wide range o
 
 In this talk, I explored how misleading averages can be in data analysis, especially in the context of big data. I introduced more nuanced approaches to interpreting data, advocating for deeper understanding rather than surface-level summaries.
 
-* 📺 [Watch on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* 🌐 [TEDx Official Page](https://www.ted.com/tedx/events/16361)
+* 🌐 [TEDx Official Page](https://www.ted.com/talks/mahdi_nasseri_nobody_is_average_and_average_is_nobody)
+* 📺 [Watch on YouTube](https://www.youtube.com/watch?v=vkMHnnJSuf8)
 
+<img src="assets/img/IMG_7012.jpeg">
 ---
 
 ## 🗂️ Open-Source Workshop Materials
