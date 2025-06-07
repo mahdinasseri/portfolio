@@ -101,4 +101,4 @@ How to measure and model user retention using actionable metrics and lifecycle a
 
 <img src="assets/img/IMG_7012.jpeg" style="height: 250px; width: auto;"> <img src="assets/img/web.jpg" style="height: 250px; width: auto;"> <img src="assets/img/webinar.jpeg" style="height: 250px; width: auto;">
 
-<img src="assets/img/open_pres.png" style="height: 400px; width: auto;"> <img src="assets/img/slideshare.png" style="height: 400px; width: auto;">
+<img src="assets/img/open_pres.png" style="height: 600px; width: auto;"> <img src="assets/img/slideshare.png" style="height: 600px; width: auto;">
