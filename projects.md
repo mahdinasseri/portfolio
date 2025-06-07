@@ -32,6 +32,7 @@ Built a Telegram-based English learning bot to solve the problem of vocabulary r
 
 <img src="assets/img/projects_ai.png" alt="">
 
+<!-- 
 ## NGD
 
 ## Word Learning by AI
@@ -45,6 +46,9 @@ Built a Telegram-based English learning bot to solve the problem of vocabulary r
 ## LTV Modeling
 
 ## Analytics Automation
+
+-->
+
 
 <!-- Add more projects in the format below:
 
