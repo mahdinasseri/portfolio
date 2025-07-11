@@ -32,6 +32,15 @@ Built a Telegram-based English learning bot to solve the problem of vocabulary r
 
 <img src="assets/img/projects_ai.png" alt="">
 
+## 3. Cohort Analysis with SQL and Metabase
+
+This project provides a simple yet powerful SQL script to calculate cohort retention metrics, along with a step-by-step guide to visualize the results in Metabase as an interactive dashboard. It's ideal for understanding user retention over time and gaining actionable insights with minimal setup.
+
+[Link to project repository](https://github.com/mahdinasseri/cohort-analysis-with-sql-metabase)
+
+<img src="assets/img/Cohort-Analysis-Visualization.jpg" alt="Cohort Analysis with SQL and Metabase">
+
+<!--
 ## NGD
 
 ## Word Learning by AI
@@ -46,7 +55,7 @@ Built a Telegram-based English learning bot to solve the problem of vocabulary r
 
 ## Analytics Automation
 
-<!-- Add more projects in the format below:
+Add more projects in the format below:
 
 ### 2. **[Project Title]**
 **Client:** [Client or Company Name]  
