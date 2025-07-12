@@ -31,7 +31,7 @@ User Segmentation · Cohort & RFM Analysis · Retention & Churn Analysis · CRM 
 
 **Leadership & Project Delivery**</br>
 Team Building & Mentorship · Cross-Functional Collaboration · Roadmap Planning · Project Management · Executive Reporting & Stakeholder Communication · Agile Methodologies<br>
-[Team-Building Experiences](https://github.com/mahdinasseri/portfolio/blob/main/Team-Building.md)<br>
+[Team-Building Experiences](https://github.com/mahdinasseri/portfolio/blob/main/Team-Building.md)
 
 **Technical Expertise**</br>
 ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Database Management · Statistical Analysis · Python & PySpark for Big Data · SQL Querying & Optimization<br>
@@ -39,7 +39,8 @@ ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Data
 
 
 **Domain Knowledge**</br>
-E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics
+E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics<br>
+[My blog posts on medium](https://medium.com/@mahdinasseri)
 
 ## Professional Experience
 **[SnappMarket](https://express.snapp.market/) | Tehran, Iran**</br>
@@ -75,7 +76,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 *Senior Marketing Data Analyst & Data Product Owner*</br>
 *Nov 2019 – Aug 2021*</br>
 * Owned and launched "Bazaar Insight", a public-facing analytics platform providing access to 30+ mobile industry metrics. Led a 4-member cross-functional team and reached 1000+ users (including developers, analysts, and tech journalists) in the first month.
-* Designed and published three national-scale industry reports, including Cafebazaar Annual Report, Mobile Games Growth Report, and App Market Quarterly Review—analyzing over 10 billion data points and shaping public understanding of Iran’s mobile ecosystem.
+* Designed and published three national-scale industry reports, including Cafebazaar Annual Report, Mobile Games Growth Report, and App Market Quarterly Review—analyzing over 10 billion data points and shaping public understanding of Iran’s mobile ecosystem. [Read some of them](https://github.com/mahdinasseri/portfolio/blob/main/storytelling-with-data.md#-public-data-storytelling-reports--cafebazaar-20192021)
 * Reduced user acquisition costs by 15% by analyzing Gen-Z user behavior and engagement data, creating behavioral personas via clustering, and guiding targeted campaign strategies.
 * Developed and monitored 20+ key marketing KPIs, deploying high-level and operational dashboards on Metabase for campaign tracking, channel optimization, and executive decision-making.
 * Executed end-to-end marketing performance analytics across ATL and BTL campaigns, using PySpark, SQL, Google Analytics, and Python to track and interpret impact across millions of users.
