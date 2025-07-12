@@ -2,6 +2,12 @@
 # Mahdi Nasseri
 ## 🧠 Data Storyteller | 📊 Analytics Strategist
 
+📞 +98 912 716 2629<br>
+✉️ mahdi.nasseri@gmail.com <br>
+🔗 [linkedin.com/in/mahdinasseri](https://www.linkedin.com/in/mahdinasseri/)<br>
+[github.com/mahdinasseri](https://github.com/mahdinasseri)
+
+
 ## Professional Summary
 
 Data-driven leader with over 8 years of experience in analytics, product insight, and performance marketing across Iran’s leading tech companies, including SnappMarket, Divar, Cafebazaar, and entrepreneurial ventures. Proven track record of designing scalable analytics infrastructures, launching high-impact data products, and delivering actionable insights that drive growth, retention, and operational efficiency.
@@ -137,7 +143,7 @@ Thesis: *SOA-based Business Intelligence System*
 
 **TEDx Speaker, TEDxNaghshejahan**
 
-* Delivered a talk on data analysis titled *"Nobody is average, and the average is nobody"* (September 2018). \[Find Talk Video on TED.com]
+* Delivered a talk on data analysis titled *"Nobody is average, and the average is nobody"* (September 2018). Watch talk video on [TED](https://www.ted.com/talks/mahdi_nasseri_nobody_is_average_and_average_is_nobody) and read about it on [medium](https://medium.com/@mahdinasseri/the-paradox-of-our-minds-averaging-of-environmental-data-a-tedx-naqshejahan-experiment-387d425518b3).
 
 **Technical & Business Mentor in Startup Weekends**
 
@@ -146,11 +152,13 @@ Thesis: *SOA-based Business Intelligence System*
 
 **Blog Writer**
 
-* Published professional blog posts in the fields of data analysis, entrepreneurship, and marketing, read more than 65,000 times by 2023. \[Find posts at: virgool.io/@mahdi]
+* Published professional blog posts in the fields of data analysis, entrepreneurship, and marketing, read more than 65,000 times by 2023. 
+* Find posts in English at : [medium.com/@mahdinasseri](https://medium.com/@mahdinasseri) and in Persian at: [virgool.io/@mahdi](https://virgool.io/@mahdi).
 
 **Workshops and Lectures**
 
-* Delivered over 100 lectures and workshops to thousands of participants at professional events on startups, e-commerce, data analysis, and information technology.
+* Delivered over 100 lectures and workshops to thousands of participants at professional events on startups, e-commerce, data analysis, and information technology. 
+* Find a series of my presentations on [open-presentation repo on git](https://github.com/mahdinasseri/Open-Presentations) or read them on [slideshare.net/mahdinasseri](https://slideshare.net/mahdinasseri) (until 2020)
 
 ## Awards 
 **Data Journalism Award – Daqiqeh (Iran, 2023)**
