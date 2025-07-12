@@ -58,7 +58,6 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Contributed to Divar’s 1402 (2023) strategic planning, delivering behavioral analytics and scenario modeling that informed long-term goals and roadmap development.
 * Developed an Anomaly Detection and Alerting System for critical KPIs, reducing detection time from one month to three days, and uncovering issues such as data loss, product bugs, behavioral shifts, and fraud.
 * Created a structured KPI framework to align business verticals with strategic objectives and track progress through centralized dashboards.
-* Empowered platform and operations teams to independently conduct analytics by building scalable documentation, reusable components, and self-service data access.
 * Performed advanced ad-hoc analyses on marketplace liquidity, supply-demand equilibrium, and long-term user behavior (acquisition, retention, and activation).
 * Used PySpark, SQL, and Python to handle large-scale data transformations and automate analytical workflows for KPI and trend monitoring.
 * Supported executive-level strategic decision-making through behavioral insights, LTV calculations, and vertical-level trend analysis.
@@ -94,7 +93,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Used SQL, Python, and Excel to analyze large datasets, prototype analytical solutions, and support strategic decisions across verticals.
 
 **Axprint | Tehran, Iran**
-*Performance Marketing Analyst*
+*Performance Marketing Manager*
 *Aug 2015 – Nov 2017*
 
 * Improved marketing ROI by 20% by analyzing multichannel campaign performance and optimizing budget allocation across paid search, email, and social channels.
