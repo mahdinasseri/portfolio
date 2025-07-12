@@ -37,7 +37,7 @@ ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Data
 E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics
 
 ## Professional Experience
-**SnappMarket | Tehran, Iran**</br>
+**[SnappMarket](https://express.snapp.market/) | Tehran, Iran**</br>
 *Marketing Data Analysis Team Lead*</br>
 *Mar 2024 – Present*</br>
 * Designed and implemented a standalone CRM infrastructure and discount engine, driving a 10–20% lift in conversion and order rates.
@@ -52,7 +52,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Delivered executive-level dashboards and weekly business reviews (WBRs), including cohort analysis, LTV tracking, and campaign performance breakdowns.
 * Advocated for data storytelling to bridge technical findings with business impact, enabling faster and more informed decisions across teams.
 
-**Divar (Divar.ir) | Tehran, Iran**</br>
+**[Divar](https://divar.ir) | Tehran, Iran**</br>
 *Senior Data Analyst & Business Insight Team Lead*</br>
 *Aug 2021 – Mar 2024*</br>
 * Founded and led the Business Insight team, recruiting and mentoring two analysts, and delivering strategic analytics for product, marketing, and executive stakeholders.
@@ -66,7 +66,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Used PySpark, SQL, and Python to handle large-scale data transformations and automate analytical workflows for KPI and trend monitoring.
 * Supported executive-level strategic decision-making through behavioral insights, LTV calculations, and vertical-level trend analysis.
 
-**Cafebazaar (Bazaar) | Tehran, Iran**</br>
+**[Cafebazaar (Bazaar)](https://cafebazaar.ir) | Tehran, Iran**</br>
 *Senior Marketing Data Analyst & Data Product Owner*</br>
 *Nov 2019 – Aug 2021*</br>
 * Owned and launched "Bazaar Insight", a public-facing analytics platform providing access to 30+ mobile industry metrics. Led a 4-member cross-functional team and reached 1000+ users (including developers, analysts, and tech journalists) in the first month.
@@ -94,7 +94,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Worked directly with stakeholders across product, marketing, and growth teams to define business problems, access data, and present findings via clear, actionable reports.
 * Used SQL, Python, and Excel to analyze large datasets, prototype analytical solutions, and support strategic decisions across verticals.
 
-**Axprint | Tehran, Iran**</br>
+**[Axprint](https://axprint.com/) | Tehran, Iran**</br>
 *Performance Marketing Manager*</br>
 *Aug 2015 – Nov 2017*</br>
 * Improved marketing ROI by 20% by analyzing multichannel campaign performance and optimizing budget allocation across paid search, email, and social channels.
@@ -120,7 +120,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Collaborated with engineers and scientists to develop technical reports for national-scale ICT initiatives.
 
 **System Analyst & Project Manager**</br>
-*PeykAsa Messageware – Tehran, Iran*</br>
+*ShivehNarmAfzar – Tehran, Iran*</br>
 *Apr 2006 – May 2008*</br>
 * Managed software development projects for enterprise messaging systems, leading cross-functional teams from planning to deployment.
 * Designed and analyzed technical specifications and system workflows to ensure delivery of scalable, client-ready solutions.
@@ -148,7 +148,7 @@ Thesis: *SOA-based Business Intelligence System*
 **Technical & Business Mentor in Startup Weekends**
 
 * Mentored teams to develop a Minimum Viable Product (MVP) using Lean Startup methodology to evaluate their business models.
-* Over the last 6 years, advised more than 10 startups in various industries on data-driven growth.
+* Over the last 8 years, advised more than 12 startups in various industries on data-driven growth.
 
 **Blog Writer**
 
@@ -162,8 +162,4 @@ Thesis: *SOA-based Business Intelligence System*
 
 ## Awards 
 **Data Journalism Award – Daqiqeh (Iran, 2023)**
-Submitted three data journalism articles to the inaugural Daqiqeh Data Journalism Award in Iran.
-
-* **Third Place**: *Yalda and Valentine: A Paradigm Shift – An Analysis of the Popularity Trends of Cultural Celebrations in Iran* \[link]
-* **Honorable Mention**: *Competition and Profitability in Iran's Mobile App Industry* \[link]
-* **Honorable Mention**: *Public Sentiment in the First 24 Hours After the Gasoline Price Hike* \[link]
+Submitted three data journalism articles to the inaugural [Daqiqeh Data Journalism Award](https://d-mag.ir/pcategory/djprize/1402/) in Iran. One article won Third Place, and two others received Honorable Mentions. [Read more about it](https://github.com/mahdinasseri/portfolio/blob/main/storytelling-with-data.md#-data-journalism-award--daqiqeh-iran-2023).
