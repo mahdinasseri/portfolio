@@ -5,7 +5,7 @@
 📞 +98 912 716 2629<br>
 ✉️ mahdi.nasseri@gmail.com <br>
 🔗 [linkedin.com/in/mahdinasseri](https://www.linkedin.com/in/mahdinasseri/)<br>
-[github.com/mahdinasseri](https://github.com/mahdinasseri)
+GitHub: [github.com/mahdinasseri](https://github.com/mahdinasseri)
 
 
 ## Professional Summary
@@ -19,19 +19,24 @@ Combines a strong technical background with business acumen, honed through early
 ## Core Skills
 
 **Data Analytics & Strategy**</br>
-KPI Design · Predictive Analytics & Forecasting · Data Storytelling · SQL · Python · PySpark · Data Interpretation & Trend Analysis · Strategic Planning & Decision Support
+KPI Design · Predictive Analytics & Forecasting · Data Interpretation & Trend Analysis · Strategic Planning & Decision Support<br>
+[Talks & Workshops](https://github.com/mahdinasseri/portfolio/blob/main/Talks-Workshops.md)
 
 **Visualization & Business Intelligence**</br>
-Dashboard Design & Development · Power BI · Metabase · Report Automation · Data Visualization Strategy
+Data Storytelling · Dashboard Design & Development · Power BI · Metabase · Report Automation · Data Visualization Strategy<br>
+[Storytelling with Data Showcase](https://github.com/mahdinasseri/portfolio/blob/main/storytelling-with-data.md)
 
 **Customer Insights & Marketing Analytics**</br>
 User Segmentation · Cohort & RFM Analysis · Retention & Churn Analysis · CRM Implementation & Optimization · Lifetime Value (LTV) Modeling · Marketing Performance & ROI Optimization · A/B Testing & Experimentation Design
 
 **Leadership & Project Delivery**</br>
-Team Building & Mentorship · Cross-Functional Collaboration · Roadmap Planning · Project Management · Executive Reporting & Stakeholder Communication · Agile Methodologies
+Team Building & Mentorship · Cross-Functional Collaboration · Roadmap Planning · Project Management · Executive Reporting & Stakeholder Communication · Agile Methodologies<br>
+[Team-Building Experiences](https://github.com/mahdinasseri/portfolio/blob/main/Team-Building.md)<br>
 
 **Technical Expertise**</br>
-ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Database Management · Statistical Analysis · Python & PySpark for Big Data · SQL Querying & Optimization
+ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Database Management · Statistical Analysis · Python & PySpark for Big Data · SQL Querying & Optimization<br>
+[Data Projects](https://github.com/mahdinasseri/portfolio/blob/main/projects.md)
+
 
 **Domain Knowledge**</br>
 E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics
