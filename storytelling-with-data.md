@@ -1,3 +1,5 @@
+[Home](/README.md) · [Data Projects](/projects.md) · [Storytelling with Data](/storytelling-with-data.md) · [Talks & Workshops](/Talks-Workshops.md) · [Team Building](/Team-Building.md) · [Resume (full version)](/my-resume.md)
+
 # storytelling-with-data
 
 Experienced in transforming complex datasets into clear, compelling narratives that drive insight and action. I combine analytical thinking with visual storytelling to communicate data-driven stories effectively to technical and non-technical audiences. Proficient in creating dynamic and context-aware visualizations using a range of tools including **Plotly, Matplotlib, Power BI, Tableau, Metabase, Google Looker, G-Shits, and Excel**. Skilled in tailoring the visualization approach based on audience, platform, and business goals.

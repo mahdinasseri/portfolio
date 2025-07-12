@@ -1,3 +1,5 @@
+[Home](/README.md) · [Data Projects](/projects.md) · [Storytelling with Data](/storytelling-with-data.md) · [Talks & Workshops](/Talks-Workshops.md) · [Team Building](/Team-Building.md) · [Resume (full version)](/my-resume.md)
+
 # 📊 Data Analyst Projects
 
 Welcome to my data analyst portfolio. Below is a curated list of real-world projects I've completed, showcasing my skills in data cleaning, analysis, visualization, and storytelling to drive business decisions.

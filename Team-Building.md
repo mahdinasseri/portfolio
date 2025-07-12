@@ -1,3 +1,4 @@
+[Home](/README.md) · [Data Projects](/projects.md) · [Storytelling with Data](/storytelling-with-data.md) · [Talks & Workshops](/Talks-Workshops.md) · [Team Building](/Team-Building.md) · [Resume (full version)](/my-resume.md)
 # Building and Leading Data-Driven Teams
 
 Over the past years, I’ve built and led several teams with a focus on data and decision-making. Each experience taught me valuable lessons about hiring, team development, and creating a data culture in different environments.

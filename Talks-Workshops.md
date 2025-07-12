@@ -1,3 +1,4 @@
+[Home](/README.md) · [Data Projects](/projects.md) · [Storytelling with Data](/storytelling-with-data.md) · [Talks & Workshops](/Talks-Workshops.md) · [Team Building](/Team-Building.md) · [Resume (full version)](/my-resume.md)
 # 🎤 Talks & Workshops
 
 Over the past 15 years, I've given numerous talks and facilitated a wide range of workshops across Iran. My focus has consistently been on making data-driven thinking accessible to a broader audience—from startups and marketers to corporate decision-makers. Below are selected highlights from my speaking and teaching engagements.
