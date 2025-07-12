@@ -3,6 +3,7 @@
 ## 🧠 Data Storyteller | 📊 Analytics Strategist
 
 ## Professional Summary
+
 Data-driven leader with over 8 years of experience in analytics, product insight, and performance marketing across Iran’s leading tech companies, including SnappMarket, Divar, Cafebazaar, and entrepreneurial ventures. Proven track record of designing scalable analytics infrastructures, launching high-impact data products, and delivering actionable insights that drive growth, retention, and operational efficiency.
 
 Skilled in leading cross-functional teams, building KPI frameworks, and implementing automated reporting pipelines using tools like PySpark, SQL, Airflow, and Metabase. Adept at user segmentation, behavioral analysis, LTV modeling, and A/B testing. Known for transforming complex data into compelling narratives that support executive decision-making and strategic planning.
@@ -12,27 +13,35 @@ Combines a strong technical background with business acumen, honed through early
 ## Core Skills
 
 **Data Analytics & Strategy**
+
 KPI Design · Predictive Analytics & Forecasting · Data Storytelling · SQL · Python · PySpark · Data Interpretation & Trend Analysis · Strategic Planning & Decision Support
 
 **Visualization & Business Intelligence**
+
 Dashboard Design & Development · Power BI · Metabase · Report Automation · Data Visualization Strategy
 
 **Customer Insights & Marketing Analytics**
+
 User Segmentation · Cohort & RFM Analysis · Retention & Churn Analysis · CRM Implementation & Optimization · Lifetime Value (LTV) Modeling · Marketing Performance & ROI Optimization · A/B Testing & Experimentation Design
 
 **Leadership & Project Delivery**
+
 Team Building & Mentorship · Cross-Functional Collaboration · Roadmap Planning · Project Management · Executive Reporting & Stakeholder Communication · Agile Methodologies
 
 **Technical Expertise**
+
 ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Database Management · Statistical Analysis · Python & PySpark for Big Data · SQL Querying & Optimization
 
 **Domain Knowledge**
+
 E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics
 
 ## Professional Experience
 
 **SnappMarket | Tehran, Iran**
+
 *Marketing Data Analysis Team Lead*
+
 *Mar 2024 – Present*
 
 * Designed and implemented a standalone CRM infrastructure and discount engine, driving a 10–20% lift in conversion and order rates.
@@ -48,7 +57,9 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Advocated for data storytelling to bridge technical findings with business impact, enabling faster and more informed decisions across teams.
 
 **Divar (Divar.ir) | Tehran, Iran**
+
 *Senior Data Analyst & Business Insight Team Lead*
+
 *Aug 2021 – Mar 2024*
 
 * Founded and led the Business Insight team, recruiting and mentoring two analysts, and delivering strategic analytics for product, marketing, and executive stakeholders.
@@ -63,7 +74,9 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Supported executive-level strategic decision-making through behavioral insights, LTV calculations, and vertical-level trend analysis.
 
 **Cafebazaar (Bazaar) | Tehran, Iran**
+
 *Senior Marketing Data Analyst & Data Product Owner*
+
 *Nov 2019 – Aug 2021*
 
 * Owned and launched "Bazaar Insight", a public-facing analytics platform providing access to 30+ mobile industry metrics. Led a 4-member cross-functional team and reached 1000+ users (including developers, analysts, and tech journalists) in the first month.
@@ -78,7 +91,9 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Supported user persona development, long-term user engagement modeling, and product-marketing alignment through behavioral segmentation and funnel analysis.
 
 **Fargosha (Consulting Startup) | Tehran, Iran**
+
 *Co-Founder & Data Analyst*
+
 *Nov 2017 – Nov 2019*
 
 * Founded and led a business analytics consultancy, partnering with 10+ high-growth tech platforms in Iran, including Filimo, Basalam, Virgool, Sibapp, and Iranzayeat.
@@ -93,7 +108,9 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Used SQL, Python, and Excel to analyze large datasets, prototype analytical solutions, and support strategic decisions across verticals.
 
 **Axprint | Tehran, Iran**
+
 *Performance Marketing Manager*
+
 *Aug 2015 – Nov 2017*
 
 * Improved marketing ROI by 20% by analyzing multichannel campaign performance and optimizing budget allocation across paid search, email, and social channels.
@@ -108,21 +125,27 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 ## Early Career Experience
 
 **Faculty Member**
+
 *Sheikh Bahaei University – Isfahan, Iran*
+
 *Jul 2012 – Aug 2015*
 
 * Taught undergraduate courses in computer science and information systems, with a focus on data structures, algorithms, and system design.
 * Mentored students in capstone and research projects related to data analysis and software development.
 
 **Researcher**
+
 *Iran Telecommunication Research Center – Tehran, Iran*
+
 *2010*
 
 * Conducted applied research on telecommunication systems, with emphasis on performance modeling and system-level optimization.
 * Collaborated with engineers and scientists to develop technical reports for national-scale ICT initiatives.
 
 **System Analyst & Project Manager**
+
 *PeykAsa Messageware – Tehran, Iran*
+
 *Apr 2006 – May 2008*
 
 * Managed software development projects for enterprise messaging systems, leading cross-functional teams from planning to deployment.
@@ -133,10 +156,12 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 ## Education
 **M.Sc. in E-Commerce Engineering**
 Amirkabir University of Technology (Tehran Polytechnic)
+
 Thesis: *Activity Recognition in Pervasive Environments*
 
 **B.Sc. in Information Technology Engineering**
 Amirkabir University of Technology (Tehran Polytechnic)
+
 Thesis: *SOA-based Business Intelligence System*
 
 ---
