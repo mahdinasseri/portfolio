@@ -2,6 +2,12 @@
 # Mahdi Nasseri
 ## 🧠 Data Storyteller | 📊 Analytics Strategist
 
+📞 +98 912 716 2629<br>
+✉️ mahdi.nasseri@gmail.com <br>
+🔗 [linkedin.com/in/mahdinasseri](https://www.linkedin.com/in/mahdinasseri/)<br>
+GitHub: [github.com/mahdinasseri](https://github.com/mahdinasseri)
+
+
 ## Professional Summary
 
 Data-driven leader with over 8 years of experience in analytics, product insight, and performance marketing across Iran’s leading tech companies, including SnappMarket, Divar, Cafebazaar, and entrepreneurial ventures. Proven track record of designing scalable analytics infrastructures, launching high-impact data products, and delivering actionable insights that drive growth, retention, and operational efficiency.
@@ -13,25 +19,31 @@ Combines a strong technical background with business acumen, honed through early
 ## Core Skills
 
 **Data Analytics & Strategy**</br>
-KPI Design · Predictive Analytics & Forecasting · Data Storytelling · SQL · Python · PySpark · Data Interpretation & Trend Analysis · Strategic Planning & Decision Support
+KPI Design · Predictive Analytics & Forecasting · Data Interpretation & Trend Analysis · Strategic Planning & Decision Support<br>
+[Talks & Workshops](https://github.com/mahdinasseri/portfolio/blob/main/Talks-Workshops.md)
 
 **Visualization & Business Intelligence**</br>
-Dashboard Design & Development · Power BI · Metabase · Report Automation · Data Visualization Strategy
+Data Storytelling · Dashboard Design & Development · Power BI · Metabase · Report Automation · Data Visualization Strategy<br>
+[Storytelling with Data Showcase](https://github.com/mahdinasseri/portfolio/blob/main/storytelling-with-data.md)
 
 **Customer Insights & Marketing Analytics**</br>
 User Segmentation · Cohort & RFM Analysis · Retention & Churn Analysis · CRM Implementation & Optimization · Lifetime Value (LTV) Modeling · Marketing Performance & ROI Optimization · A/B Testing & Experimentation Design
 
 **Leadership & Project Delivery**</br>
-Team Building & Mentorship · Cross-Functional Collaboration · Roadmap Planning · Project Management · Executive Reporting & Stakeholder Communication · Agile Methodologies
+Team Building & Mentorship · Cross-Functional Collaboration · Roadmap Planning · Project Management · Executive Reporting & Stakeholder Communication · Agile Methodologies<br>
+[Team-Building Experiences](https://github.com/mahdinasseri/portfolio/blob/main/Team-Building.md)
 
 **Technical Expertise**</br>
-ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Database Management · Statistical Analysis · Python & PySpark for Big Data · SQL Querying & Optimization
+ETL Workflows & Data Architecture · Data Governance & Quality Assurance · Database Management · Statistical Analysis · Python & PySpark for Big Data · SQL Querying & Optimization<br>
+[Data Projects](https://github.com/mahdinasseri/portfolio/blob/main/projects.md)
+
 
 **Domain Knowledge**</br>
-E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics
+E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Product Strategy & Growth Analytics<br>
+[My blog posts on medium](https://medium.com/@mahdinasseri)
 
 ## Professional Experience
-**SnappMarket | Tehran, Iran**</br>
+**[SnappMarket](https://express.snapp.market/) | Tehran, Iran**</br>
 *Marketing Data Analysis Team Lead*</br>
 *Mar 2024 – Present*</br>
 * Designed and implemented a standalone CRM infrastructure and discount engine, driving a 10–20% lift in conversion and order rates.
@@ -46,7 +58,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Delivered executive-level dashboards and weekly business reviews (WBRs), including cohort analysis, LTV tracking, and campaign performance breakdowns.
 * Advocated for data storytelling to bridge technical findings with business impact, enabling faster and more informed decisions across teams.
 
-**Divar (Divar.ir) | Tehran, Iran**</br>
+**[Divar](https://divar.ir) | Tehran, Iran**</br>
 *Senior Data Analyst & Business Insight Team Lead*</br>
 *Aug 2021 – Mar 2024*</br>
 * Founded and led the Business Insight team, recruiting and mentoring two analysts, and delivering strategic analytics for product, marketing, and executive stakeholders.
@@ -60,11 +72,11 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Used PySpark, SQL, and Python to handle large-scale data transformations and automate analytical workflows for KPI and trend monitoring.
 * Supported executive-level strategic decision-making through behavioral insights, LTV calculations, and vertical-level trend analysis.
 
-**Cafebazaar (Bazaar) | Tehran, Iran**</br>
+**[Cafebazaar (Bazaar)](https://cafebazaar.ir) | Tehran, Iran**</br>
 *Senior Marketing Data Analyst & Data Product Owner*</br>
 *Nov 2019 – Aug 2021*</br>
 * Owned and launched "Bazaar Insight", a public-facing analytics platform providing access to 30+ mobile industry metrics. Led a 4-member cross-functional team and reached 1000+ users (including developers, analysts, and tech journalists) in the first month.
-* Designed and published three national-scale industry reports, including Cafebazaar Annual Report, Mobile Games Growth Report, and App Market Quarterly Review—analyzing over 10 billion data points and shaping public understanding of Iran’s mobile ecosystem.
+* Designed and published three national-scale industry reports, including Cafebazaar Annual Report, Mobile Games Growth Report, and App Market Quarterly Review—analyzing over 10 billion data points and shaping public understanding of Iran’s mobile ecosystem. [Read some of them](https://github.com/mahdinasseri/portfolio/blob/main/storytelling-with-data.md#-public-data-storytelling-reports--cafebazaar-20192021)
 * Reduced user acquisition costs by 15% by analyzing Gen-Z user behavior and engagement data, creating behavioral personas via clustering, and guiding targeted campaign strategies.
 * Developed and monitored 20+ key marketing KPIs, deploying high-level and operational dashboards on Metabase for campaign tracking, channel optimization, and executive decision-making.
 * Executed end-to-end marketing performance analytics across ATL and BTL campaigns, using PySpark, SQL, Google Analytics, and Python to track and interpret impact across millions of users.
@@ -88,7 +100,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Worked directly with stakeholders across product, marketing, and growth teams to define business problems, access data, and present findings via clear, actionable reports.
 * Used SQL, Python, and Excel to analyze large datasets, prototype analytical solutions, and support strategic decisions across verticals.
 
-**Axprint | Tehran, Iran**</br>
+**[Axprint](https://axprint.com/) | Tehran, Iran**</br>
 *Performance Marketing Manager*</br>
 *Aug 2015 – Nov 2017*</br>
 * Improved marketing ROI by 20% by analyzing multichannel campaign performance and optimizing budget allocation across paid search, email, and social channels.
@@ -114,7 +126,7 @@ E-commerce · Classifieds · Mobile App Stores · Performance Marketing · Produ
 * Collaborated with engineers and scientists to develop technical reports for national-scale ICT initiatives.
 
 **System Analyst & Project Manager**</br>
-*PeykAsa Messageware – Tehran, Iran*</br>
+*ShivehNarmAfzar – Tehran, Iran*</br>
 *Apr 2006 – May 2008*</br>
 * Managed software development projects for enterprise messaging systems, leading cross-functional teams from planning to deployment.
 * Designed and analyzed technical specifications and system workflows to ensure delivery of scalable, client-ready solutions.
@@ -137,25 +149,23 @@ Thesis: *SOA-based Business Intelligence System*
 
 **TEDx Speaker, TEDxNaghshejahan**
 
-* Delivered a talk on data analysis titled *"Nobody is average, and the average is nobody"* (September 2018). \[Find Talk Video on TED.com]
+* Delivered a talk on data analysis titled *"Nobody is average, and the average is nobody"* (September 2018). Watch talk video on [TED](https://www.ted.com/talks/mahdi_nasseri_nobody_is_average_and_average_is_nobody) and read about it on [medium](https://medium.com/@mahdinasseri/the-paradox-of-our-minds-averaging-of-environmental-data-a-tedx-naqshejahan-experiment-387d425518b3).
 
 **Technical & Business Mentor in Startup Weekends**
 
 * Mentored teams to develop a Minimum Viable Product (MVP) using Lean Startup methodology to evaluate their business models.
-* Over the last 6 years, advised more than 10 startups in various industries on data-driven growth.
+* Over the last 8 years, advised more than 12 startups in various industries on data-driven growth.
 
 **Blog Writer**
 
-* Published professional blog posts in the fields of data analysis, entrepreneurship, and marketing, read more than 65,000 times by 2023. \[Find posts at: virgool.io/@mahdi]
+* Published professional blog posts in the fields of data analysis, entrepreneurship, and marketing, read more than 65,000 times by 2023. 
+* Find posts in English at : [medium.com/@mahdinasseri](https://medium.com/@mahdinasseri) and in Persian at: [virgool.io/@mahdi](https://virgool.io/@mahdi).
 
 **Workshops and Lectures**
 
-* Delivered over 100 lectures and workshops to thousands of participants at professional events on startups, e-commerce, data analysis, and information technology.
+* Delivered over 100 lectures and workshops to thousands of participants at professional events on startups, e-commerce, data analysis, and information technology. 
+* Find a series of my presentations on [open-presentation repo on git](https://github.com/mahdinasseri/Open-Presentations) or read them on [slideshare.net/mahdinasseri](https://slideshare.net/mahdinasseri) (until 2020)
 
 ## Awards 
 **Data Journalism Award – Daqiqeh (Iran, 2023)**
-Submitted three data journalism articles to the inaugural Daqiqeh Data Journalism Award in Iran.
-
-* **Third Place**: *Yalda and Valentine: A Paradigm Shift – An Analysis of the Popularity Trends of Cultural Celebrations in Iran* \[link]
-* **Honorable Mention**: *Competition and Profitability in Iran's Mobile App Industry* \[link]
-* **Honorable Mention**: *Public Sentiment in the First 24 Hours After the Gasoline Price Hike* \[link]
+Submitted three data journalism articles to the inaugural [Daqiqeh Data Journalism Award](https://d-mag.ir/pcategory/djprize/1402/) in Iran. One article won Third Place, and two others received Honorable Mentions. [Read more about it](https://github.com/mahdinasseri/portfolio/blob/main/storytelling-with-data.md#-data-journalism-award--daqiqeh-iran-2023).
