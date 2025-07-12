@@ -15,7 +15,7 @@ Combines a strong technical background with business acumen, honed through early
 KPI Design · Predictive Analytics & Forecasting · Data Storytelling · SQL · Python · PySpark · Data Interpretation & Trend Analysis · Strategic Planning & Decision Support
 
 **Visualization & Business Intelligence**
-Dashboard Design & Development · Power BI · Metabase · Superset · Report Automation · Data Visualization Strategy · Scorecard Development
+Dashboard Design & Development · Power BI · Metabase · Report Automation · Data Visualization Strategy
 
 **Customer Insights & Marketing Analytics**
 User Segmentation · Cohort & RFM Analysis · Retention & Churn Analysis · CRM Implementation & Optimization · Lifetime Value (LTV) Modeling · Marketing Performance & ROI Optimization · A/B Testing & Experimentation Design
