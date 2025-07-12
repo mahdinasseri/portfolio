@@ -1,3 +1,6 @@
+Showcases:<br> 
+[Data Projects](/projects.md) · [Storytelling with Data](/storytelling-with-data.md) · [Talks & Workshops](/Talks-Workshops.md) · [Team Building](/Team-Building.md) · [Resume (full version)](/my-resume.md)
+
 # 🧠 Data Storyteller | 📊 Analytics Strategist
 
 ---
@@ -74,13 +77,4 @@ Thesis: BI System Design for University Operations
 - **Visualization & BI**: Power BI · Metabase · Dashboard Design · Report Automation  
 - **Customer Insights**: Segmentation · Retention Analysis · CRM Optimization · LTV Modeling  
 - **Leadership & Project Delivery**: Team Building · Mentorship · Roadmapping · Executive Reporting  
-- **Domain Expertise**: E-commerce · Classifieds · App Stores · Marketing Analytics · Product Strategy  
-
----
-
-## **Thought Leadership**
-
-- **TEDx Speaker** – “Nobody is Average” (TEDxNaghsheJahan 2018)  
-- **Blogger** – 70,000+ reads on data, startups, and growth [@virgool.io/@mahdi](https://virgool.io/@mahdi)  
-- **Trainer** – Delivered 100+ workshops and talks in data, tech, and digital strategy  
-- [**Industry Reports**](https://public.cafebazaar.ir/) – Cafe Bazaar’s Annual & Gaming Analytics Publications
+- **Domain Expertise**: E-commerce · Classifieds · App Stores · Marketing Analytics · Product Strategy
