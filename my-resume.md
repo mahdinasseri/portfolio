@@ -1,3 +1,4 @@
+[Home](/README.md) · [Data Projects](/projects.md) · [Storytelling with Data](/storytelling-with-data.md) · [Talks & Workshops](/Talks-Workshops.md) · [Team Building](/Team-Building.md) · [Resume (full version)](/my-resume.md)
 
 # Mahdi Nasseri
 ## 🧠 Data Storyteller | 📊 Analytics Strategist
