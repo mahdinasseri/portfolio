@@ -1,6 +1,6 @@
 
 # Mahdi Nasseri
-# 🧠 Data Storyteller | 📊 Analytics Strategist
+## 🧠 Data Storyteller | 📊 Analytics Strategist
 
 ## Professional Summary
 Data-driven leader with over 8 years of experience in analytics, product insight, and performance marketing across Iran’s leading tech companies, including SnappMarket, Divar, Cafebazaar, and entrepreneurial ventures. Proven track record of designing scalable analytics infrastructures, launching high-impact data products, and delivering actionable insights that drive growth, retention, and operational efficiency.
