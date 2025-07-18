@@ -55,7 +55,7 @@ Check out the full post + code here:
 * 🔗 [Blog post on Medium](https://medium.com/@mahdinasseri/bringing-macd-from-wall-street-to-your-dashboard-a-new-way-to-read-e-commerce-trends-b549e324958a)
 * 📂 [GitHub repo](https://github.com/mahdinasseri/kpi-trend-analyzer)
 
-<img src="assets/img/kpi-trend-analyzer.jpg" alt="Using MACD for Trend Analysis in E-Commerce Metrics">
+<img src="assets/img/kpi-trend-analyzer.png" alt="Using MACD for Trend Analysis in E-Commerce Metrics">
 
 <!--
 ## NGD
