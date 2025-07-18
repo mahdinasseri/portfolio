@@ -46,8 +46,11 @@ This project provides a simple yet powerful SQL script to calculate cohort reten
 
 ## Using MACD for Trend Analysis in E-Commerce Metrics
 I explored how the popular MACD indicator—widely used in stock trading—can be adapted to analyze trends in daily e-commerce metrics like order volume.
+
 ✅ Built a Python visual tool with annotated signals (golden cross, death cross, bullish/bearish moments)
+
 ✅ Created a SQL version for BI dashboards
+
 ✅ Weekly seasonality and real business context considered
 
 🧠 It’s a small step in applying financial analytics techniques to better understand customer behavior and business performance.
