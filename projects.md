@@ -60,7 +60,6 @@ Check out the full post + code here:
 <!--
 ## NGD
 
-## Word Learning by AI
 
 ## Segmentation
 
