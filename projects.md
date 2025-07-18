@@ -42,6 +42,21 @@ This project provides a simple yet powerful SQL script to calculate cohort reten
 
 <img src="assets/img/Cohort-Analysis-Visualization.jpg" alt="Cohort Analysis with SQL and Metabase">
 
+---
+
+## Using MACD for Trend Analysis in E-Commerce Metrics
+I explored how the popular MACD indicator—widely used in stock trading—can be adapted to analyze trends in daily e-commerce metrics like order volume.
+✅ Built a Python visual tool with annotated signals (golden cross, death cross, bullish/bearish moments)
+✅ Created a SQL version for BI dashboards
+✅ Weekly seasonality and real business context considered
+
+🧠 It’s a small step in applying financial analytics techniques to better understand customer behavior and business performance.
+Check out the full post + code here:
+* 🔗 [Blog post on Medium](https://medium.com/@mahdinasseri/bringing-macd-from-wall-street-to-your-dashboard-a-new-way-to-read-e-commerce-trends-b549e324958a)
+* 📂 [GitHub repo](https://github.com/mahdinasseri/kpi-trend-analyzer)
+
+<img src="assets/img/kpi-trend-analyzer.jpg" alt="Using MACD for Trend Analysis in E-Commerce Metrics">
+
 <!--
 ## NGD
 
